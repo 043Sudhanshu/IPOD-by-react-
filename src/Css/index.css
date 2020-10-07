@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -webkit-body;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: gray;
+  }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.highlight{
+  transition: all 0.5s;
+  font-size: 25px;
+  display: flex;
+  background-color: #2196F3;
+  color:white;
+  align-items: center;
+}
+.display2{
+  background-position: left;
+  background-size: cover;
+  transition: all 30s linear;
+  background-image:url(https://www.pixel4k.com/wp-content/uploads/2018/10/landscape-beach-tropical-sun-4k_1540135753.jpg);
+}
+.mainmenu{
+  background-image:url(https://www.pixel4k.com/wp-content/uploads/2018/10/landscape-beach-tropical-sun-4k_1540135753.jpg);
+}
+.musicmenu{
+  background-image:url(https://eskipaper.com/images/music-wallpaper-34.jpg);
+
+}
