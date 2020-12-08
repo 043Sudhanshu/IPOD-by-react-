@@ -13,7 +13,7 @@ class home extends React.Component{
             count:1,          /** count refers to the items that present in the menu**/
             level:0,           /** level refers to the pages  **/
             ok:false,          /** ok is false initially , it will be true if any of the item is clicked by the button **/
-            mainmenu_array:["Coverflow","Music","Games","Setting"],  /** array of items presented on the home-menu **/
+            mainmenu_array:["Coverflow","Music","Games","About"],  /** array of items presented on the home-menu **/
             musicmenu_array:["Allsongs","Artists","Albums"],  /** array of items presented on the music-menu **/
             wheel:true   /** true:when the wheel will work , false: when the wheel will not work */
                 }

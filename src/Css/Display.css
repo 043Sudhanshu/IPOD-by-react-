@@ -9,6 +9,7 @@
     border-radius: 27px;
     overflow: hidden;
     font-size: 20px;
+    text-align: center;
 }
 .display1{
   width:50%;
@@ -29,7 +30,7 @@
     justify-content: center;
     align-items: center;
 }
-.display_all>h2{
+.display_all>h2,.display_all>h4{
     position: absolute;
 }
 .transition{
