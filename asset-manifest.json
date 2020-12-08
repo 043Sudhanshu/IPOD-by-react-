@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IPOD-by-react-/static/css/main.fd69f81e.chunk.css",
+    "main.js": "/IPOD-by-react-/static/js/main.69f613ec.chunk.js",
+    "main.js.map": "/IPOD-by-react-/static/js/main.69f613ec.chunk.js.map",
+    "runtime-main.js": "/IPOD-by-react-/static/js/runtime-main.8df3ee3b.js",
+    "runtime-main.js.map": "/IPOD-by-react-/static/js/runtime-main.8df3ee3b.js.map",
+    "static/js/2.603a3d61.chunk.js": "/IPOD-by-react-/static/js/2.603a3d61.chunk.js",
+    "static/js/2.603a3d61.chunk.js.map": "/IPOD-by-react-/static/js/2.603a3d61.chunk.js.map",
+    "index.html": "/IPOD-by-react-/index.html",
+    "precache-manifest.24e60fc007ad18f08004083fdcb8cb78.js": "/IPOD-by-react-/precache-manifest.24e60fc007ad18f08004083fdcb8cb78.js",
+    "service-worker.js": "/IPOD-by-react-/service-worker.js",
+    "static/css/main.fd69f81e.chunk.css.map": "/IPOD-by-react-/static/css/main.fd69f81e.chunk.css.map",
+    "static/js/2.603a3d61.chunk.js.LICENSE.txt": "/IPOD-by-react-/static/js/2.603a3d61.chunk.js.LICENSE.txt",
+    "static/media/sickick.mp3": "/IPOD-by-react-/static/media/sickick.641e6348.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8df3ee3b.js",
+    "static/js/2.603a3d61.chunk.js",
+    "static/css/main.fd69f81e.chunk.css",
+    "static/js/main.69f613ec.chunk.js"
+  ]
+}
