@@ -31,8 +31,8 @@ const {level,name,count}=props;
          
             <h3 style={{color:"#b3a102"}}>    Created By : </h3>
          <h4 style={{color:"#b3a102"}}> Sudhanshu Chauhan 
-              Email:043sudhanshu@gmail.com 
-             Phone : +91-7906571690 :)
+             043sudhanshu@gmail.com 
+            +91-7906571690 :)
                </h4>
                    </div>
          :
